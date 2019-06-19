@@ -1,2 +1,2 @@
 # HttpServerTest
-Booking app example using com.sun.net.httpserver
+Booking web app example using com.sun.net.httpserver
